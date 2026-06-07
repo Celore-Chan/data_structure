@@ -6,7 +6,7 @@
 
 ### Linear Structure
 
-- 顺序表
+- vector
 - 链表
 - 栈
 - 队列
