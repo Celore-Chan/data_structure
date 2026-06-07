@@ -22,6 +22,8 @@
 - 邻接矩阵
 - 邻接表
 - 稀疏矩阵
+- DFS
+- BFS
 
 ### Search Structure
 
